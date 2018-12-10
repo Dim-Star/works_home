@@ -13,5 +13,8 @@ public class WorksHomeApplicationTests {
 	public void contextLoads() {
 		System.out.println("sda");
 	}
+@Test
+	public void test(){
 
+}
 }
